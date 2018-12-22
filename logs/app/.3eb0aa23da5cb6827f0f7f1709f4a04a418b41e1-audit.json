@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Development\\GitHub\\moviedb-search-broker-node\\logs\\app\\.3eb0aa23da5cb6827f0f7f1709f4a04a418b41e1-audit.json",
+    "files": [
+        {
+            "date": 1544922319892,
+            "name": "C:\\Development\\GitHub\\moviedb-search-broker-node\\logs\\app\\appLogger-2018-12-15-19.log",
+            "hash": "0915813319a4bec3a3f549d0e7bc25ed"
+        },
+        {
+            "date": 1545510441559,
+            "name": "C:\\Development\\GitHub\\moviedb-search-broker-node\\logs\\app\\appLogger-2018-12-22-14.log",
+            "hash": "317c54f621b1c9ef643d05fb0e263fbe"
+        },
+        {
+            "date": 1545522386706,
+            "name": "C:\\Development\\GitHub\\moviedb-search-broker-node\\logs\\app\\appLogger-2018-12-22-17.log",
+            "hash": "648e5977cae14fe37331ca339b21a48b"
+        }
+    ]
+}
